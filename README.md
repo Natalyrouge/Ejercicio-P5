@@ -1,2 +1,2 @@
 # Ejercicio-P5
-Ejercicio de clase
+Resultado del mini curso "Git and GitHub for Poets"
